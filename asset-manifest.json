@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BuildHero/static/css/main.073c9b0a.css",
+    "main.js": "/BuildHero/static/js/main.90846e97.js",
+    "static/js/787.3e4bc9e0.chunk.js": "/BuildHero/static/js/787.3e4bc9e0.chunk.js",
+    "index.html": "/BuildHero/index.html",
+    "main.073c9b0a.css.map": "/BuildHero/static/css/main.073c9b0a.css.map",
+    "main.90846e97.js.map": "/BuildHero/static/js/main.90846e97.js.map",
+    "787.3e4bc9e0.chunk.js.map": "/BuildHero/static/js/787.3e4bc9e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.90846e97.js"
+  ]
+}
