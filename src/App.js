@@ -47,7 +47,7 @@ function App() {
                 Age: {age}
                 </li>
                 <li>
-                Height: {height}
+                Height : {height}
                 </li>
                 <li>
                 SuperPower: {superpower}
